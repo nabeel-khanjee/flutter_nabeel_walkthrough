@@ -1,5 +1,5 @@
-import 'package:first_pub_package_and_upload/first_pub_package_and_upload.dart';
-import 'package:first_pub_package_and_upload/walkthrough.dart';
+import 'package:flutter_nabeel_walkthrough/first_pub_package_and_upload.dart';
+import 'package:flutter_nabeel_walkthrough/walkthrough.dart';
 import 'package:flutter/material.dart';
 
 class TestScreen extends StatelessWidget {
